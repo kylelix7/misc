@@ -1,0 +1,22 @@
+<xliff version="1.2">
+ <file original="Graphic Example.psd"
+  source-language="en-US" target-language="ja-JP"
+  tool="Rainbow" datatype="photoshop">
+  <body>
+   <trans-unit id="1" maxbytes="14">
+    <source xml:lang="en-US">Quetzal</source>
+    <target xml:lang="ja-JP">Quetzal</target>
+   </trans-unit>
+   <trans-unit id="3" maxbytes="114">
+    <source xml:lang="en-US">An application to manipulate and 
+     process XLIFF documents</source>
+    <target xml:lang="ja-JP">XLIFF 文書を編集、または処理
+     するアプリケーションです。</target>
+   </trans-unit>
+   <trans-unit id="4" maxbytes="36">
+    <source xml:lang="en-US">XLIFF Data Manager</source>
+    <target xml:lang="ja-JP">XLIFF データ・マネージャ</target>
+   </trans-unit>
+  </body>
+ </file>
+</xliff>
